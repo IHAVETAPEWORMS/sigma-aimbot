@@ -1,7 +1,4 @@
 -- open source
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 local repo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/refs/heads/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
 
