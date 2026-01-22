@@ -1,0 +1,2 @@
+# sigma-aimbot
+test
